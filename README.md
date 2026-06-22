@@ -4,6 +4,6 @@
 
 <div align="center">
 
-  ![Мои стрики](https://streak-stats.demolab.com/?user=sucharikiflintcom&theme=radical&hide_border=true)
+  ![Терминал статс](https://github-readme-terminal.vercel.app/api/terminal?user=sucharikiflintcom&theme=radical&hide=stars,issues,prs)
 
 </div>
