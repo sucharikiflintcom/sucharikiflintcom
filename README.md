@@ -4,6 +4,6 @@
 
 <div align="center">
 
-  ![Терминал статс](https://github-readme-terminal.vercel.app/api/terminal?user=sucharikiflintcom&theme=radical&hide=stars,issues,prs)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sucharikiflintcom&show_icons=true&theme=dark)
 
 </div>
