@@ -7,3 +7,10 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=sucharikiflintcom&theme=dark)](https://git.io/streak-stats)
 
 </div>
+
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,cs,mysql,terraform,githubactions&theme=dark&perline=8" />
+  </a>
+</div>
