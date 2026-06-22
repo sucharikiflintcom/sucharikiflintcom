@@ -4,6 +4,6 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sucharikiflintcom&show_icons=true&theme=dark)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sucharikiflintcom&theme=dark)](https://git.io/streak-stats)
 
 </div>
