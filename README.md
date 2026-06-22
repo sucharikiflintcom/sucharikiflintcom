@@ -4,6 +4,6 @@
 
 <div align="center">
 
-  ![Счетчик коммитов](https://github-readme-stats.vercel.app/api?username=sucharikiflintcom&show_icons=true&theme=radical&count_private=true&hide=stars,issues,prs,contribs&hide_rank=true)
+  ![Мои стрики](https://streak-stats.demolab.com/?user=sucharikiflintcom&theme=radical&hide_border=true)
 
 </div>
