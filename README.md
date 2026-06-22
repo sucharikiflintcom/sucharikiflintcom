@@ -19,20 +19,3 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=JS+%7C+TypeScript+%7C+Python;Go+%7C+C%23+%7C+SQL;HCL+%7C+YAML;Fullstack+%2B+DevOps+Engineer" alt="Typing SVG" />
 </div>
 
-
-
-### 💻 Мой технический стек
-
-**Frontend & Scripting**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Backend & Core**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**DevOps & Infrastructure**  
-![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
