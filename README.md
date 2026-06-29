@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sucharikiflintcom&color=e67e22&style=flat&label=Profile+Views&logo=github" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=endedinlimbo&color=e67e22&style=flat&label=Profile+Views&logo=github" alt="Views" />
 </p>
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sucharikiflintcom&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=endedinlimbo&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
